@@ -11,4 +11,8 @@ Vortex Client Currently works for the following versions:
 ## Vortex Features 
 ###We don't know yet. We have yet to test if it works
 ## To-Do
+* Add the SRC Folder. Duh. This is important.
+* Find out what modules it has.
+* Configure Capes
+* Test Client
 
